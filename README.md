@@ -3,10 +3,6 @@ Graphs
 
 PROGRAM-5:  adding features to a graph class.
 
-DUE:  Wednesday, Dec. 5 by 11:59PM
-
-      NO LATE SUBMISSIONS WILL BE ACCEPTED FOR THIS ASSIGNMENT.
-
 DELIVERABLE:  just modified source file Graph.h
 
 ----------------------------------------------------------------------
